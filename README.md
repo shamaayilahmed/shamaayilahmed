@@ -8,7 +8,7 @@ Hey there 👋
 
 I’m Shamaayil, a frontend engineer, intuitive problem solver and self-proclaimed developer who specializes in front-end development using JavaScript paradigm. Builds good websites or applications from user-focused design orients.
 
-Want to know more about me? [Check out my portfolio](https://shamaayilahmed.tech/).
+Want to know more about me? [Check out my portfolio](https://shamaayilahmed.tech/)
 
 
 <br>
