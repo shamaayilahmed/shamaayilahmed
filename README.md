@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio](https://shamaayilahmed.tech
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NPM CLI 7 dev release is out now!](https://shamaayil.hashnode.dev/npm-cli-7-dev-release-is-out-now)
 - [React Hook #4 useReducer()](https://shamaayil.hashnode.dev/react-hook-4-usereducer)
 - [React Hook #3 useRef()](https://shamaayil.hashnode.dev/react-hook-3-useref)
 - [Forms in ReactJS](https://shamaayil.hashnode.dev/forms-in-reactjs)
 - [Conditional Rendering in ReactJS](https://shamaayil.hashnode.dev/conditional-rendering-in-reactjs)
-- [React Hook #2 useEffect()](https://shamaayil.hashnode.dev/react-hook-2-useeffect)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
