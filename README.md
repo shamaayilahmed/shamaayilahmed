@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio](https://shamaayilahmed.tech
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PropTypes in React](https://shamaayil.hashnode.dev/proptypes-in-react)
 - [React Custom Hooks](https://shamaayil.hashnode.dev/react-custom-hooks)
 - [React Hook #5 useContext()](https://shamaayil.hashnode.dev/react-hook-5-usecontext)
 - [NPM CLI 7 dev release is out now!](https://shamaayil.hashnode.dev/npm-cli-7-dev-release-is-out-now)
 - [React Hook #4 useReducer()](https://shamaayil.hashnode.dev/react-hook-4-usereducer)
-- [React Hook #3 useRef()](https://shamaayil.hashnode.dev/react-hook-3-useref)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
