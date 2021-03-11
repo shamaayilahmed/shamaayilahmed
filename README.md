@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio](https://shamaayilahmed.tech
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [KickStart to NodeJS](https://shamaayil.hashnode.dev/kickstart-to-nodejs)
 - [Redux in react](https://shamaayil.hashnode.dev/redux-in-react)
 - [Routing in React](https://shamaayil.hashnode.dev/routing-in-react)
 - [PropTypes in React](https://shamaayil.hashnode.dev/proptypes-in-react)
 - [React Custom Hooks](https://shamaayil.hashnode.dev/react-custom-hooks)
-- [React Hook #5 useContext()](https://shamaayil.hashnode.dev/react-hook-5-usecontext)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
