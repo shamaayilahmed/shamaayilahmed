@@ -1,4 +1,4 @@
-[![Shamaayil's GitHub Banner](./assets/Banner2.png)](https://shamaayilahmed.tech/)
+[![Shamaayil's GitHub Banner](./assets/20210313_073303_0000.png)](https://shamaayilahmed.tech/)
 
 [![Visits Badge](https://badges.pufler.dev/visits/shamaayilahmed/shamaayilahmed)](https://shamaayilahmed.tech/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shamaayil-ahmed-3a079a183/)
