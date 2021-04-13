@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio](https://shamaayilahmed.tech
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Express Apps](https://shamaayil.hashnode.dev/express-apps)
 - [Client and Server in NodeJS](https://shamaayil.hashnode.dev/client-and-server-in-nodejs)
 - [KickStart to NodeJS](https://shamaayil.hashnode.dev/kickstart-to-nodejs)
 - [Redux in react](https://shamaayil.hashnode.dev/redux-in-react)
 - [Routing in React](https://shamaayil.hashnode.dev/routing-in-react)
-- [PropTypes in React](https://shamaayil.hashnode.dev/proptypes-in-react)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
