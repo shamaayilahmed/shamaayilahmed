@@ -1,6 +1,6 @@
 [![Shamaayil's GitHub Banner](./assets/20210313_073303_0000.png)](https://shamaayilahmed.tech/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/shamaayilahmed/shamaayilahmed)](https://shamaayilahmed.tech/)
+<!--[![Visits Badge](https://badges.pufler.dev/visits/shamaayilahmed/shamaayilahmed)](https://shamaayilahmed.tech/)-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shamaayil-ahmed-3a079a183/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AhmadShamayil)
 
@@ -40,9 +40,8 @@ Want to know more about me? [Check out my portfolio](https://shamaayilahmed.tech
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-C-Language?logo=C&logoColor=A8B9CC&color=A8B9CC)
+
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=00599C&color=00599C)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=007396&color=007396)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=F7DF1E&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=E34F26&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=1572B6&color=1572B6)
@@ -60,6 +59,8 @@ Want to know more about me? [Check out my portfolio](https://shamaayilahmed.tech
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C-Language?logo=C&logoColor=A8B9CC&color=A8B9CC)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=007396&color=007396)
 -->
 
 <details>
@@ -67,9 +68,9 @@ Want to know more about me? [Check out my portfolio](https://shamaayilahmed.tech
 <br>
   
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=00C7B7&color=00C7B7)
-![](https://img.shields.io/badge/Code-Heroku-informational?style=flat&logo=Heroku&logoColor=430098&color=430098)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&logoColor=430098&color=430098)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=CB3837&color=CB3837)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=F05032&color=F05032)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=F05032&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=181717&color=181717)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=007ACC)
 </details>
