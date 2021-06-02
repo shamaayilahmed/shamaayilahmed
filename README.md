@@ -1,7 +1,7 @@
 [![Shamaayil's GitHub Banner](./assets/20210313_073303_0000.png)](https://shamaayilahmed.tech/)
 
 <!--[![Visits Badge](https://badges.pufler.dev/visits/shamaayilahmed/shamaayilahmed)](https://shamaayilahmed.tech/)-->
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shamaayil-ahmed-3a079a183/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/shamaayilahmed/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AhmadShamayil)
 
 Hey there 👋
